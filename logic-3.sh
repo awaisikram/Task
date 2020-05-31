@@ -1,8 +1,6 @@
 #!/bin/bash
 
-#using bahs builtin command shuffle
-
-
+#using bash builtin command shuffle
 
 #define range & count of numbers to print
 numbers=($(shuf -i 1-10 -n 10))
