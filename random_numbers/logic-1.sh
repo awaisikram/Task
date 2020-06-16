@@ -1,3 +1,9 @@
+#######################################################################
+## This script generates random numbers from range [1-10]
+## Scripts display only unique numbers from random_generated numbers
+#######################################################################
+
+
 #!/bin/bash
 
 #define mininum and maximum range

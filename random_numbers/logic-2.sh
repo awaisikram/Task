@@ -1,3 +1,7 @@
+############################################################
+## This script generates random numbers from range [1-10]
+## Scripts executes until all unique numbers are printed
+###########################################################
 #!/bin/bash
 
 #Range of numbers 1-10

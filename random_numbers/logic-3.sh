@@ -1,3 +1,8 @@
+##################################################################
+## This script generates unique random numbers from range [1-10]
+## Script use shuffle Linux builtin command
+################################################################## 
+
 #!/bin/bash
 
 #using bash builtin command shuffle
